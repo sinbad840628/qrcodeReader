@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/ffmpeg-java.jar"/>
+	<classpathentry kind="lib" path="lib/fmj-applet.jar"/>
+	<classpathentry kind="lib" path="lib/fmj-nojmf.jar"/>
+	<classpathentry kind="lib" path="lib/fmj.jar"/>
+	<classpathentry kind="lib" path="lib/javase.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/jl1.0.jar"/>
+	<classpathentry kind="lib" path="lib/lti-civil-no_s_w_t.jar"/>
+	<classpathentry kind="lib" path="lib/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="lib/substance.jar"/>
+	<classpathentry kind="lib" path="lib/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="lib/vorbisspi1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/zxing-1.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
